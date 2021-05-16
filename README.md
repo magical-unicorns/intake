@@ -42,7 +42,8 @@ There are many showcase/example React projects out there but most of them are wa
 
 - Set up development environment
 - Create a database named `jira_test` and start the api with `cd api && npm run start:test`
-- `cd client && npm run test:cypress`
+- `cd client && npm start` in another terminal tab
+- `cd client && npm run test:cypress` in a third terminal tab (will load cypress)
 
 ## What's missing?
 
